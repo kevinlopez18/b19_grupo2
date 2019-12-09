@@ -1,0 +1,14 @@
+.titulousuario {
+    position: absolute;
+    right:60px;
+    top:20px;
+    font-size: 10px;
+}
+
+body{
+    background-image: url("../imagenes/cit.jpg");
+    background-color: #ffffff;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size:300px;
+}
